@@ -1,0 +1,20 @@
+{
+  "name": "glanceable-dashboard-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.0.0",
+    "@nivo/bar": "^0.79.0",
+    "@nivo/pie": "^0.79.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "react-scripts": "5.0.1"
+  }
+}
